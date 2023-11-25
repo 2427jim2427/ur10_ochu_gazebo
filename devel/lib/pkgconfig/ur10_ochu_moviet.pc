@@ -1,0 +1,8 @@
+prefix=/home/kyn1/ur10_ochu_gazebo/devel
+
+Name: ur10_ochu_moviet
+Description: Description of ur10_ochu_moviet
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

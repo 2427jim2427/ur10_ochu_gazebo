@@ -1,0 +1,8 @@
+prefix=/home/kyn1/ur10_ochu_gazebo/devel
+
+Name: real_hand_moveit
+Description: Description of real_hand_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

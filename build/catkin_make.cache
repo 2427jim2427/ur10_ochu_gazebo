@@ -1,0 +1,2 @@
+arm_planning:ur10_ochu_moviet
+-DCATKIN_DEVEL_PREFIX=/home/kyn1/ur10_ochu_gazebo/devel -DCMAKE_INSTALL_PREFIX=/home/kyn1/ur10_ochu_gazebo/install -G Unix Makefiles
